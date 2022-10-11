@@ -1,0 +1,300 @@
+[
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "17:45:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "18:45:00"
+    },
+    "airline": {
+        "name": "AtlasJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "7248"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "16:15:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "17:15:00"
+    },
+    "airline": {
+        "name": "THY Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "7246"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "12:30:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "13:30:00"
+    },
+    "airline": {
+        "name": "Pegasus Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "7244"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "08:00:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "09:00:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "7242"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "07:00:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "08:00:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "7240"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "09:30:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "10:30:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "279"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "10:00:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "11:00:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "275"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "12:20:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "13:20:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "273"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "20:30:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "21:30:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "271"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "08:30:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "09:30:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "270"
+    }
+},
+{
+    "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe\/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "time": "22:00:00"
+    },
+    "arrival": {
+        "airport": "Esenboga International",
+        "timezone": "Europe\/Istanbul",
+        "iata": "ESB",
+        "icao": "LTAC",
+        "terminal": null,
+        "time": "23:00:00"
+    },
+    "airline": {
+        "name": "BoraJet Havacilik Tasimacilik Ucak Bakim Onarim Ve Ticaret A.S.",
+        "callsign": "BORA JET",
+        "iata": "YB",
+        "icao": "BRJ"
+    },
+    "flight": {
+        "number": "269"
+    }
+}
+]
+
